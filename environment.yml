@@ -1,0 +1,24 @@
+name: AfroBarometer
+channels:
+  - default
+  - conda-forge
+dependencies:
+  - python
+  - jupyter
+  - numpy
+  - matplotlib
+  - statsmodels
+  - seaborn
+  - pandas
+  - lxml
+  - xlrd
+  - pyreadstat
+  - pytables
+  - scipy
+  - descartes
+  - pip
+  - pip:
+    - empiricaldist
+
+
+
